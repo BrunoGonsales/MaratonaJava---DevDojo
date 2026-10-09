@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8d38a17-2b3a-43c1-a0e9-1dc01f76377c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/maratona-java/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/maratona-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/test/FuncionarioTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/test/PessoaTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula01OlaDevDojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula02TiposPrimitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula03TiposPrimitivosExercicios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula04Operadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula05EstruturasCondicionaisPt01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula05EstruturasCondicionaisPt02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula05EstruturasCondicionaisPt03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula05EstruturasCondicionaisPt04Ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula05EstruturasCondicionaisPt05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula05EstruturasCondicionaisPt06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula06EstruturasDeRepeticaoPt01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula06EstruturasDeRepeticaoPt02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula06EstruturasDeRepeticaoPt03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula06EstruturasDeRepeticaoPt04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula06EstruturasDeRepeticaoPt05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula07ArraysPt01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula07ArraysPt02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula07ArraysPt03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula08ArraysMultidimensionaisPt01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula08ArraysMultidimensionaisPt02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Aintroducaoclasses/dominio/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Aintroducaoclasses/dominio/Estudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Aintroducaoclasses/dominio/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Aintroducaoclasses/test/CarroTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Aintroducaoclasses/test/ProfessorTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/dominio/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/dominio/Estudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/dominio/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/dominio/ImprimeEstudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/dominio/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/dominio/PessoaTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/test/EstudanteTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/test/EstudanteTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/test/FuncionarioTest01.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/maratona-java" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3J6fVJURGM1AsXQ03aUmLtQBDgj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Aula05EstruturasCondicionais.executor": "Run",
+    "Application.Aula05EstruturasCondicionaisPt02.executor": "Run",
+    "Application.Aula05EstruturasCondicionaisPt03.executor": "Run",
+    "Application.Aula05EstruturasCondicionaisPt04Ex.executor": "Run",
+    "Application.Aula05EstruturasCondicionaisPt05.executor": "Run",
+    "Application.Aula05EstruturasCondicionaisPt06.executor": "Run",
+    "Application.Aula06EstruturasDeRepeticaoPt01.executor": "Run",
+    "Application.Aula06EstruturasDeRepeticaoPt02.executor": "Run",
+    "Application.Aula06EstruturasDeRepeticaoPt03.executor": "Run",
+    "Application.Aula06EstruturasDeRepeticaoPt04.executor": "Run",
+    "Application.Aula06EstruturasDeRepeticaoPt05.executor": "Run",
+    "Application.Aula07ArraysPt01.executor": "Run",
+    "Application.Aula07ArraysPt02.executor": "Run",
+    "Application.Aula07ArraysPt03.executor": "Run",
+    "Application.Aula08ArraysMultidimensionaisPt01.executor": "Run",
+    "Application.Aula08ArraysMultidimensionaisPt01Estudano.executor": "Run",
+    "Application.Aula08ArraysMultidimensionaisPt02.executor": "Run",
+    "Application.CalculadoraTest.executor": "Run",
+    "Application.CalculadoraTest03.executor": "Run",
+    "Application.CalculadoraTest04.executor": "Run",
+    "Application.CalculadoraTest05.executor": "Run",
+    "Application.CarroTest01.executor": "Run",
+    "Application.EstudanteTest01.executor": "Run",
+    "Application.EstudanteTest02.executor": "Run",
+    "Application.EstutanteTest02.executor": "Run",
+    "Application.FuncionarioTest01.executor": "Run",
+    "Application.PessoaTest01.executor": "Run",
+    "Application.ProfessorTest01.executor": "Run",
+    "Application.br.com.moraessite.maratonajava.estudando.test.PessoaTest01.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/Arquivos/Documentos/Dev/Estudo/Cursos/Maratona_Java/07-Conhecendo_a_IDE",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.moraessite.maratonajava.introducao" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PessoaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.moraessite.maratonajava.javacore.Bintroducaometodos.dominio.PessoaTest01" />
+      <module name="07-Conhecendo_a_IDE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.moraessite.maratonajava.javacore.Bintroducaometodos.dominio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PessoaTest01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.29188.72" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.29188.72" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8d38a17-2b3a-43c1-a0e9-1dc01f76377c" name="Changes" comment="" />
+      <created>1788986460934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788986460934</updated>
+      <workItem from="1788986462055" duration="1834000" />
+      <workItem from="1788995057437" duration="3293000" />
+      <workItem from="1790274713109" duration="4672000" />
+      <workItem from="1790370582148" duration="3308000" />
+      <workItem from="1790606588059" duration="6723000" />
+      <workItem from="1790692337201" duration="4554000" />
+      <workItem from="1790705406869" duration="4940000" />
+      <workItem from="1790768971142" duration="4722000" />
+      <workItem from="1790787849256" duration="3078000" />
+      <workItem from="1790944681660" duration="6526000" />
+      <workItem from="1791235126301" duration="1006000" />
+      <workItem from="1791241732650" duration="2629000" />
+      <workItem from="1791409763040" duration="2627000" />
+      <workItem from="1791578231005" duration="1615000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
