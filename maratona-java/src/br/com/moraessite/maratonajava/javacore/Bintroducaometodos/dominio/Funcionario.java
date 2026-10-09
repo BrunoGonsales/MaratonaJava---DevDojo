@@ -6,6 +6,7 @@ public class Funcionario {
     private double [] salario;
     private double media;
 
+
     public void imprime(){
         System.out.println(this.nome);
         System.out.println(this.idade);

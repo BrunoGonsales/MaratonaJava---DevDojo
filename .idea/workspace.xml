@@ -5,57 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8d38a17-2b3a-43c1-a0e9-1dc01f76377c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/maratona-java/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/maratona-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/test/FuncionarioTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/test/PessoaTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula01OlaDevDojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula02TiposPrimitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula03TiposPrimitivosExercicios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula04Operadores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula05EstruturasCondicionaisPt01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula05EstruturasCondicionaisPt02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula05EstruturasCondicionaisPt03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula05EstruturasCondicionaisPt04Ex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula05EstruturasCondicionaisPt05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula05EstruturasCondicionaisPt06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula06EstruturasDeRepeticaoPt01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula06EstruturasDeRepeticaoPt02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula06EstruturasDeRepeticaoPt03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula06EstruturasDeRepeticaoPt04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula06EstruturasDeRepeticaoPt05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula07ArraysPt01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula07ArraysPt02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula07ArraysPt03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula08ArraysMultidimensionaisPt01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/introducao/Aula08ArraysMultidimensionaisPt02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Aintroducaoclasses/dominio/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Aintroducaoclasses/dominio/Estudante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Aintroducaoclasses/dominio/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Aintroducaoclasses/test/CarroTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Aintroducaoclasses/test/ProfessorTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/dominio/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/dominio/Estudante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/dominio/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/dominio/ImprimeEstudante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/dominio/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/dominio/PessoaTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/test/EstudanteTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/test/EstudanteTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/test/FuncionarioTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/dominio/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/dominio/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/dominio/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/dominio/Funcionario.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/maratona-java" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
@@ -80,12 +33,16 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="3J6fVJURGM1AsXQ03aUmLtQBDgj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AnimeTeste01.executor": "Run",
     "Application.Aula05EstruturasCondicionais.executor": "Run",
     "Application.Aula05EstruturasCondicionaisPt02.executor": "Run",
     "Application.Aula05EstruturasCondicionaisPt03.executor": "Run",
@@ -120,14 +77,14 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "E:/Arquivos/Documentos/Dev/Estudo/Cursos/Maratona_Java/07-Conhecendo_a_IDE",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -185,10 +142,17 @@
       <workItem from="1791241732650" duration="2629000" />
       <workItem from="1791409763040" duration="2627000" />
       <workItem from="1791578231005" duration="1615000" />
+      <workItem from="1791579866786" duration="196000" />
+      <workItem from="1791580067567" duration="959000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/maratona-java" />
+    </ignored-roots>
   </component>
 </project>
