@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8d38a17-2b3a-43c1-a0e9-1dc01f76377c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/test/AnimeTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/dominio/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/dominio/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/dominio/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/javacore/Bintroducaometodos/dominio/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/javacore/Csobrecargametodos/dominio/Anime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/javacore/Csobrecargametodos/dominio/Anime.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,56 +40,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AnimeTeste01.executor": "Run",
-    "Application.Aula05EstruturasCondicionais.executor": "Run",
-    "Application.Aula05EstruturasCondicionaisPt02.executor": "Run",
-    "Application.Aula05EstruturasCondicionaisPt03.executor": "Run",
-    "Application.Aula05EstruturasCondicionaisPt04Ex.executor": "Run",
-    "Application.Aula05EstruturasCondicionaisPt05.executor": "Run",
-    "Application.Aula05EstruturasCondicionaisPt06.executor": "Run",
-    "Application.Aula06EstruturasDeRepeticaoPt01.executor": "Run",
-    "Application.Aula06EstruturasDeRepeticaoPt02.executor": "Run",
-    "Application.Aula06EstruturasDeRepeticaoPt03.executor": "Run",
-    "Application.Aula06EstruturasDeRepeticaoPt04.executor": "Run",
-    "Application.Aula06EstruturasDeRepeticaoPt05.executor": "Run",
-    "Application.Aula07ArraysPt01.executor": "Run",
-    "Application.Aula07ArraysPt02.executor": "Run",
-    "Application.Aula07ArraysPt03.executor": "Run",
-    "Application.Aula08ArraysMultidimensionaisPt01.executor": "Run",
-    "Application.Aula08ArraysMultidimensionaisPt01Estudano.executor": "Run",
-    "Application.Aula08ArraysMultidimensionaisPt02.executor": "Run",
-    "Application.CalculadoraTest.executor": "Run",
-    "Application.CalculadoraTest03.executor": "Run",
-    "Application.CalculadoraTest04.executor": "Run",
-    "Application.CalculadoraTest05.executor": "Run",
-    "Application.CarroTest01.executor": "Run",
-    "Application.EstudanteTest01.executor": "Run",
-    "Application.EstudanteTest02.executor": "Run",
-    "Application.EstutanteTest02.executor": "Run",
-    "Application.FuncionarioTest01.executor": "Run",
-    "Application.PessoaTest01.executor": "Run",
-    "Application.ProfessorTest01.executor": "Run",
-    "Application.br.com.moraessite.maratonajava.estudando.test.PessoaTest01.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/Arquivos/Documentos/Dev/Estudo/Cursos/Maratona_Java/07-Conhecendo_a_IDE",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AnimeTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnimeTeste01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula05EstruturasCondicionais.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula05EstruturasCondicionaisPt02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula05EstruturasCondicionaisPt03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula05EstruturasCondicionaisPt04Ex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula05EstruturasCondicionaisPt05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula05EstruturasCondicionaisPt06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula06EstruturasDeRepeticaoPt01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula06EstruturasDeRepeticaoPt02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula06EstruturasDeRepeticaoPt03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula06EstruturasDeRepeticaoPt04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula06EstruturasDeRepeticaoPt05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula07ArraysPt01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula07ArraysPt02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula07ArraysPt03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula08ArraysMultidimensionaisPt01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula08ArraysMultidimensionaisPt01Estudano.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula08ArraysMultidimensionaisPt02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraTest04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraTest05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarroTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstudanteTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstudanteTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstutanteTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FuncionarioTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PessoaTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProfessorTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.br.com.moraessite.maratonajava.estudando.test.PessoaTest01.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Arquivos/Documentos/Dev/Estudo/Cursos/Maratona_Java/07-Conhecendo_a_IDE&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.moraessite.maratonajava.javacore.Dconstrutores.test" />
+      <recent name="br.com.moraessite.maratonajava.javacore.Dconstrutores.dominio" />
       <recent name="br.com.moraessite.maratonajava.introducao" />
     </key>
   </component>
@@ -143,7 +146,8 @@
       <workItem from="1791409763040" duration="2627000" />
       <workItem from="1791578231005" duration="1615000" />
       <workItem from="1791579866786" duration="196000" />
-      <workItem from="1791580067567" duration="959000" />
+      <workItem from="1791580067567" duration="5944000" />
+      <workItem from="1791742105423" duration="3651000" />
     </task>
     <servers />
   </component>
