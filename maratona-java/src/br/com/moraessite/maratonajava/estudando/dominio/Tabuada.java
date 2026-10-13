@@ -15,6 +15,5 @@ public class Tabuada {
             resultado = i * valor1;
             System.out.println(valor1 + " x " + i + " = " + resultado);
         }
-
     }
 }
