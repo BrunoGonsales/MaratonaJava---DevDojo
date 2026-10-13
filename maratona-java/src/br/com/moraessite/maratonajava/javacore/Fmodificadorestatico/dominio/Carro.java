@@ -1,4 +1,4 @@
-package br.com.moraessite.maratonajava.javacore.Fmodificadorestatico.domain;
+package br.com.moraessite.maratonajava.javacore.Fmodificadorestatico.dominio;
 
 public class Carro {
     // Aqui usamos uma variavel static, para definir que todas as instâncias (carro 1, carro 2...) tenham ou futuramente sejam alterados, uma velocidade definida somente uma única vez.

@@ -1,4 +1,4 @@
-package br.com.moraessite.maratonajava.javacore.Eblocoseinicializacao.domain;
+package br.com.moraessite.maratonajava.javacore.Eblocoseinicializacao.dominio;
 
 public class Anime {
     private String nome;

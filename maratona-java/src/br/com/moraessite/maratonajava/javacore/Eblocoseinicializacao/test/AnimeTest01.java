@@ -1,6 +1,6 @@
 package br.com.moraessite.maratonajava.javacore.Eblocoseinicializacao.test;
 
-import br.com.moraessite.maratonajava.javacore.Eblocoseinicializacao.domain.Anime;
+import br.com.moraessite.maratonajava.javacore.Eblocoseinicializacao.dominio.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args) {
