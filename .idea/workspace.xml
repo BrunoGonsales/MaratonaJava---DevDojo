@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f8d38a17-2b3a-43c1-a0e9-1dc01f76377c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Eblocoseinicializacao/domain/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Eblocoseinicializacao/domain/Anime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,12 +88,26 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.moraessite.maratonajava.javacore.Fmodificadorestatico.domain" />
       <recent name="br.com.moraessite.maratonajava.javacore.Dconstrutores.test" />
       <recent name="br.com.moraessite.maratonajava.javacore.Dconstrutores.dominio" />
       <recent name="br.com.moraessite.maratonajava.introducao" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.moraessite.maratonajava.javacore.Fmodificadorestatico.test.AnimeTest01" />
+      <module name="07-Conhecendo_a_IDE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.moraessite.maratonajava.javacore.Fmodificadorestatico.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PessoaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.moraessite.maratonajava.javacore.Bintroducaometodos.dominio.PessoaTest01" />
       <module name="07-Conhecendo_a_IDE" />
@@ -110,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnimeTest01" />
         <item itemvalue="Application.PessoaTest01" />
       </list>
     </recent_temporary>
@@ -147,6 +161,7 @@
       <workItem from="1791580067567" duration="5944000" />
       <workItem from="1791742105423" duration="3651000" />
       <workItem from="1791839813368" duration="5521000" />
+      <workItem from="1791895258328" duration="1748000" />
     </task>
     <servers />
   </component>
