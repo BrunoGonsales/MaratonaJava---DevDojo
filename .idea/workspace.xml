@@ -41,6 +41,7 @@
   "keyToString": {
     "Application.AnimeTest01.executor": "Run",
     "Application.AnimeTeste01.executor": "Run",
+    "Application.AtletaTest01.executor": "Run",
     "Application.Aula05EstruturasCondicionais.executor": "Run",
     "Application.Aula05EstruturasCondicionaisPt02.executor": "Run",
     "Application.Aula05EstruturasCondicionaisPt03.executor": "Run",
@@ -163,7 +164,7 @@
       <workItem from="1791580067567" duration="5944000" />
       <workItem from="1791742105423" duration="3651000" />
       <workItem from="1791839813368" duration="5521000" />
-      <workItem from="1791895258328" duration="4917000" />
+      <workItem from="1791895258328" duration="6248000" />
     </task>
     <servers />
   </component>
