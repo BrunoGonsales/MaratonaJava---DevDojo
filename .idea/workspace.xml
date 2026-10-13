@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8d38a17-2b3a-43c1-a0e9-1dc01f76377c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Anime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/test/AnimeTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/javacore/Csobrecargametodos/dominio/Anime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/javacore/Csobrecargametodos/dominio/Anime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Eblocoseinicializacao/domain/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Eblocoseinicializacao/domain/Anime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,6 +146,7 @@
       <workItem from="1791579866786" duration="196000" />
       <workItem from="1791580067567" duration="5944000" />
       <workItem from="1791742105423" duration="3651000" />
+      <workItem from="1791839813368" duration="5521000" />
     </task>
     <servers />
   </component>
