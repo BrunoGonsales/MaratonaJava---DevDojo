@@ -10,12 +10,12 @@ public class AtletaTest01 {
         Atleta atleta4 = new Atleta("Claudemir", "Natação", 50);
 
         atleta1.imprimeAtleta();
-        atleta1.imprimeCategoria(atleta1);
+        atleta1.imprimeCategoria();
         atleta2.imprimeAtleta();
-        atleta2.imprimeCategoria(atleta2);
+        atleta2.imprimeCategoria();
         atleta3.imprimeAtleta();
-        atleta3.imprimeCategoria(atleta3);
+        atleta3.imprimeCategoria();
         atleta4.imprimeAtleta();
-        atleta4.imprimeCategoria(atleta4);
+        atleta4.imprimeCategoria();
     }
 }

@@ -6,7 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="f8d38a17-2b3a-43c1-a0e9-1dc01f76377c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Atleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Atleta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/NumParesEDivisiveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/NumParesEDivisiveis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Tabuada.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Tabuada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/test/AtletaTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/test/AtletaTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/test/NumParesEDivisiceisTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/test/NumParesEDivisiceisTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +171,7 @@
       <workItem from="1791580067567" duration="5944000" />
       <workItem from="1791742105423" duration="3651000" />
       <workItem from="1791839813368" duration="5521000" />
-      <workItem from="1791895258328" duration="8792000" />
+      <workItem from="1791895258328" duration="11646000" />
     </task>
     <servers />
   </component>

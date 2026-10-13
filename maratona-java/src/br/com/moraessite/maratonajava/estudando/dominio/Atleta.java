@@ -20,19 +20,19 @@ public class Atleta {
         System.out.println("Idade: " + this.idade);
     }
 
-    public void imprimeCategoria(Atleta atleta){
-        if (atleta.idade < 5 ){
+    public void imprimeCategoria(){
+        if (this.idade < 5 ){
             categoria = "Fora da faixa etária permitida";
             System.out.println("Categoria: " +  categoria);
-        } else if (atleta.idade >= 5 && atleta.idade <= 7) {
+        } else if (this.idade >= 5 && this.idade <= 7) {
             categoria = "Infantil";
             System.out.println("Categoria: " +  categoria);
 
-        } else if (atleta.idade >= 8 && atleta.idade <= 15) {
+        } else if (this.idade >= 8 && this.idade <= 15) {
             categoria = "Juvenil";
             System.out.println("Categoria: " +  categoria);
 
-        } else if (atleta.idade >= 16 && atleta.idade <= 30) {
+        } else if (this.idade >= 16 && this.idade <= 30) {
             categoria = "Adulto";
             System.out.println("Categoria: " +  categoria);
 
