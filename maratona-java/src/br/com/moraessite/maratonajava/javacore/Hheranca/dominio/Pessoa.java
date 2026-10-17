@@ -1,9 +1,10 @@
 package br.com.moraessite.maratonajava.javacore.Hheranca.dominio;
 
 public class Pessoa {
-    private String nome;
-    private String cpf;
-    private Endereco endereco;
+    // Alteramos de PRIVATE para PROTECTED
+    protected String nome;
+    protected String cpf;
+    protected Endereco endereco;
 
 
     public void imprime(){

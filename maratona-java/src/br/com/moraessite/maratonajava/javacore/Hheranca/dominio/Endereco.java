@@ -4,6 +4,11 @@ public class Endereco {
     private String rua;
     private String cep;
 
+    // Como alteramos a variavel de pessoa para PROTECTED, conseguimos acessar em qualquer lugar dentro do pacote
+    public void imprime(){
+        Pessoa p = new Pessoa();
+        p.nome = "Sasa";
+    }
 
     public String getRua() {
         return rua;
