@@ -12,7 +12,7 @@ public class AssociacaoTest {
         Professor professor = new Professor("Barba Branca", "Pirata");
         Aluno[] alunosParaSeminario = {aluno};
 
-        Seminario seminario = new Seminario("Onde achar one piece", alunosParaSeminario, local);
+        Seminario seminario = new Seminario("Onde achar one piece",local,alunosParaSeminario);
 
         Seminario[] seminariosDisponiveis = {seminario};
 
