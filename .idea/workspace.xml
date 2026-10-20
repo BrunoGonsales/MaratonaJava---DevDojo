@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f8d38a17-2b3a-43c1-a0e9-1dc01f76377c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Hheranca/dominio/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Hheranca/dominio/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Hheranca/dominio/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Hheranca/dominio/Pessoa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +107,26 @@
       <recent name="br.com.moraessite.maratonajava.introducao" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="CarroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.moraessite.maratonajava.javacore.Jmodificadorfinal.test.CarroTest01" />
+      <module name="07-Conhecendo_a_IDE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.moraessite.maratonajava.javacore.Jmodificadorfinal.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CarroTest01" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -146,7 +164,7 @@
       <workItem from="1792092772189" duration="2391000" />
       <workItem from="1792153833428" duration="14695000" />
       <workItem from="1792242678250" duration="2634000" />
-      <workItem from="1792501147587" duration="7931000" />
+      <workItem from="1792501147587" duration="10421000" />
     </task>
     <servers />
   </component>
