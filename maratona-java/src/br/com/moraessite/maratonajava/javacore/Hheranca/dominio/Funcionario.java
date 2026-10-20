@@ -3,10 +3,23 @@ package br.com.moraessite.maratonajava.javacore.Hheranca.dominio;
 public class Funcionario extends Pessoa{
     private double salario;
 
+    static {
+        System.out.println("Dentro do bloco de inicialização estático de Funcionario");
+    }
+
+    {
+        System.out.println("Dentro do bloco de inicialização de Funcionario 1");
+    }
+
+    {
+        System.out.println("Dentro do bloco de inicialização de Funcionario 1");
+    }
+
     public Funcionario(){
     }
 
     public Funcionario (String nome){
+        System.out.println("Dentro do construtor do funcionario");
         super(nome);
     }
 
