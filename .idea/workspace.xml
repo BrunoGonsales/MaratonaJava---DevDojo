@@ -16,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -66,6 +67,7 @@
     "Application.CalculadoraTest04.executor": "Run",
     "Application.CalculadoraTest05.executor": "Run",
     "Application.CarroTest01.executor": "Run",
+    "Application.ClienteTest01.executor": "Run",
     "Application.EscolaTest01.executor": "Run",
     "Application.EstudanteTest01.executor": "Run",
     "Application.EstudanteTest02.executor": "Run",
@@ -107,7 +109,7 @@
       <recent name="br.com.moraessite.maratonajava.introducao" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ClienteTest01">
     <configuration name="CarroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.moraessite.maratonajava.javacore.Jmodificadorfinal.test.CarroTest01" />
       <module name="07-Conhecendo_a_IDE" />
@@ -121,8 +123,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ClienteTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.moraessite.maratonajava.javacore.Kenum.test.ClienteTest01" />
+      <module name="07-Conhecendo_a_IDE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.moraessite.maratonajava.javacore.Kenum.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClienteTest01" />
         <item itemvalue="Application.CarroTest01" />
       </list>
     </recent_temporary>
@@ -165,6 +181,7 @@
       <workItem from="1792153833428" duration="14695000" />
       <workItem from="1792242678250" duration="2634000" />
       <workItem from="1792501147587" duration="11360000" />
+      <workItem from="1792610221224" duration="6702000" />
     </task>
     <servers />
   </component>
