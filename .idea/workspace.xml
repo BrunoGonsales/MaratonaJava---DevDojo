@@ -6,6 +6,53 @@
   <component name="ChangeListManager">
     <list default="true" id="f8d38a17-2b3a-43c1-a0e9-1dc01f76377c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/dominio/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/dominio/Anime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/AssosiacaoRelatorioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/dominio/AssosiacaoRelatorioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Atleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/dominio/Atleta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/dominio/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/dominio/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Jogador.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/dominio/Jogador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Local.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/dominio/Local.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/NumParesEDivisiveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/dominio/NumParesEDivisiveis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/dominio/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/dominio/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Seminario.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/dominio/Seminario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Tabuada.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/dominio/Tabuada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/dominio/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/dominio/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/test/AnimeTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/test/AnimeTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/test/AssosiacaoTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/test/AssosiacaoTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/test/AtletaTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/test/AtletaTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/test/CarroTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/test/CarroTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/test/FuncionarioTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/test/FuncionarioTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/test/JogadorTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/test/JogadorTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/test/NumParesEDivisiceisTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/test/NumParesEDivisiceisTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/test/PessoaTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/test/PessoaTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/test/TabuadaTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/estudando/Basico/test/TabuadaTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Kenum/dominio/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratona-java/src/br/com/moraessite/maratonajava/javacore/Kenum/dominio/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/dominio/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/dominio/Anime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/dominio/AssosiacaoRelatorioService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/dominio/Atleta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/dominio/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/dominio/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/dominio/Jogador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/dominio/Local.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/dominio/NumParesEDivisiveis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/dominio/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/dominio/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/dominio/Seminario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/dominio/Tabuada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/dominio/Time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/test/AnimeTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/test/AssosiacaoTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/test/AtletaTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/test/CarroTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/test/FuncionarioTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/test/JogadorTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/test/NumParesEDivisiceisTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/test/PessoaTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/test/TabuadaTest01.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +62,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -83,6 +130,7 @@
     "Application.PessoaTest01.executor": "Run",
     "Application.ProfessorTest01.executor": "Run",
     "Application.TabuadaTest01.executor": "Run",
+    "Application.br.com.moraessite.maratonajava.estudando.Kenum.test.ClienteTest01.executor": "Run",
     "Application.br.com.moraessite.maratonajava.estudando.test.PessoaTest01.executor": "Run",
     "Application.br.com.moraessite.maratonajava.javacore.Eblocoseinicializacao.test.AnimeTest01.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -109,7 +157,7 @@
       <recent name="br.com.moraessite.maratonajava.introducao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClienteTest01">
+  <component name="RunManager" selected="Application.br.com.moraessite.maratonajava.estudando.Kenum.test.ClienteTest01">
     <configuration name="CarroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.moraessite.maratonajava.javacore.Jmodificadorfinal.test.CarroTest01" />
       <module name="07-Conhecendo_a_IDE" />
@@ -136,8 +184,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="br.com.moraessite.maratonajava.estudando.Kenum.test.ClienteTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.moraessite.maratonajava.estudando.Kenum.test.ClienteTest01" />
+      <module name="07-Conhecendo_a_IDE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.moraessite.maratonajava.estudando.Kenum.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.br.com.moraessite.maratonajava.estudando.Kenum.test.ClienteTest01" />
         <item itemvalue="Application.ClienteTest01" />
         <item itemvalue="Application.CarroTest01" />
       </list>
@@ -181,7 +243,7 @@
       <workItem from="1792153833428" duration="14695000" />
       <workItem from="1792242678250" duration="2634000" />
       <workItem from="1792501147587" duration="11360000" />
-      <workItem from="1792610221224" duration="6702000" />
+      <workItem from="1792610221224" duration="11518000" />
     </task>
     <servers />
   </component>

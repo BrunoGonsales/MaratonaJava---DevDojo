@@ -21,4 +21,20 @@ public class Cliente {
                 ", tipoPagamento=" + tipoPagamento +
                 '}';
     }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public TipoCliente getTipoCliente() {
+        return tipoCliente;
+    }
+
+    public TipoPagamento getTipoPagamento() {
+        return tipoPagamento;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
 }
