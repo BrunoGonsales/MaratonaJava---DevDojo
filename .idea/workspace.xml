@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f8d38a17-2b3a-43c1-a0e9-1dc01f76377c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/Kenum/domain/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/Kenum/domain/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/Kenum/domain/TipoCliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/Kenum/domain/TipoCliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/Kenum/test/ClienteTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/estudando/Kenum/test/ClienteTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/javacore/Kenum/dominio/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/javacore/Kenum/dominio/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/javacore/Lclassesabstratas/dominio/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/07-Conhecendo_a_IDE/br/com/moraessite/maratonajava/javacore/Lclassesabstratas/dominio/Funcionario.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +18,7 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -72,6 +70,7 @@
     &quot;Application.CalculadoraTest05.executor&quot;: &quot;Run&quot;,
     &quot;Application.CarroTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.ClienteTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataLoaderTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.EscolaTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.EstudanteTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.EstudanteTest02.executor&quot;: &quot;Run&quot;,
@@ -114,7 +113,7 @@
       <recent name="br.com.moraessite.maratonajava.introducao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FuncionarioTest01">
+  <component name="RunManager" selected="Application.DataLoaderTest01">
     <configuration name="CarroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.moraessite.maratonajava.javacore.Jmodificadorfinal.test.CarroTest01" />
       <module name="07-Conhecendo_a_IDE" />
@@ -134,6 +133,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.com.moraessite.maratonajava.javacore.Kenum.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataLoaderTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.moraessite.maratonajava.javacore.Minterfaces.test.DataLoaderTest01" />
+      <module name="07-Conhecendo_a_IDE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.moraessite.maratonajava.javacore.Minterfaces.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,6 +181,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DataLoaderTest01" />
         <item itemvalue="Application.FuncionarioTest01" />
         <item itemvalue="Application.br.com.moraessite.maratonajava.estudando.Kenum.test.ClienteTest01" />
         <item itemvalue="Application.ClienteTest01" />
@@ -218,7 +231,9 @@
       <workItem from="1792708628875" duration="1484000" />
       <workItem from="1793042392802" duration="1547000" />
       <workItem from="1793054677176" duration="3654000" />
-      <workItem from="1793106770446" duration="6672000" />
+      <workItem from="1793106770446" duration="7671000" />
+      <workItem from="1793124608678" duration="4399000" />
+      <workItem from="1793189842307" duration="999000" />
     </task>
     <servers />
   </component>
